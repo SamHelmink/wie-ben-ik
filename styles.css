@@ -1,0 +1,16 @@
+body {
+	background-image: url(tardis.png);
+	background-size: 200px
+}
+h1 {
+	font-size: 80px;
+	color: red;
+	font-family: impact;}
+h2 {
+	font-size: 60px;
+	color: yellow;
+	font-family: georgia;}
+p {
+	font-size: 40px;
+	color: white;
+	font-family: arial;}
